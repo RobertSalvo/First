@@ -7,7 +7,7 @@ html{
 .calculator{
     width: 420px;
     height: 630px;
-    background-color: blue;
+    background-color: rgb(33, 57, 81);
     border-radius: 9px;
     display: flex;
     flex-direction: column;
